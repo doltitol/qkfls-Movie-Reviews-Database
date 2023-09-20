@@ -3,5 +3,5 @@
   "CLOUDANT_PROBLEM": "Problem with Cloudant service. Please make sure the service exists and is connected to your application.",
   "NLU_PROBLEM": "Problem with Natural Language Processing service. Please make sure the service exists and is connected to your application.",
   "INVALID_FORM": "Invalid form. Go back to the main page and enter all the fields. Notice there is no client side validation in this application.",
-  "CLOUDANT_ERROR": "Something went wrong with a call to Cloudant."
+  "CLOUDANT_ERROR": "Something went wrong with a call to Cloudant.."
 }
